@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "projects": {
+    "api": "apps/api",
+    "api-interfaces": "libs/api-interfaces",
+    "nx-utils": "apps/nx-utils",
+    "nx-utils-e2e": "apps/nx-utils-e2e"
+  }
+}
